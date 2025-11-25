@@ -38,6 +38,13 @@ This analysis quantifies the orientation of TaZnPc relative to the membrane norm
 
 <img width="3479" height="1465" alt="tilt-taznpc" src="https://github.com/user-attachments/assets/6d4549ba-ecfe-4fe5-8aa5-0ed1bab238c3" />
 
+## Snapshot of ZnPc Inserted in the Membrane
+
+Representative frame from the simulation showing ZnPc embedded within the mitochondrial outer membrane, illustrating its insertion depth and orientation during the interaction process.
+
+<img width="1920" height="1080" alt="znpc-mem-asim" src="https://github.com/user-attachments/assets/9f3da7a3-1f2c-44b1-91c0-5657b9641ec0" />
+
+
 
 
 
