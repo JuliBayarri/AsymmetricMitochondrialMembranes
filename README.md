@@ -32,5 +32,12 @@ This analysis tracks the vertical (z-axis) position of ZnPc throughout the simul
 
 <img width="1000" height="600" alt="Z-poticion-Znpc" src="https://github.com/user-attachments/assets/2c7dd3cc-0de4-45b3-9684-547c4a5539f8" />
 
+## Tilt Angle of TaZnPc Within the Membrane
+
+This analysis quantifies the orientation of TaZnPc relative to the membrane normal (z-axis), revealing how the molecule tilts, aligns, or reorients during insertion and interaction with the asymmetric mitochondrial membrane. It helps characterize its preferred orientation and dynamic stability.
+
+<img width="3479" height="1465" alt="tilt-taznpc" src="https://github.com/user-attachments/assets/6d4549ba-ecfe-4fe5-8aa5-0ed1bab238c3" />
+
+
 
 
