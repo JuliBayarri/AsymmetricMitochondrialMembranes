@@ -1,4 +1,4 @@
-# This repository contains the analyses, scripts, and results associated with the development of a computational platform based on molecular dynamics simulations designed to study the interaction between photosensitizers (FSs) and realistic models of the mitochondrial outer membrane.
+# This repository contains the analyses, scripts, and results associated with the development of a computational platform based on molecular dynamics simulations designed to study the interaction between photosensitizers (PSs) and realistic models of the mitochondrial outer membrane.
 
 # The work includes:
 
