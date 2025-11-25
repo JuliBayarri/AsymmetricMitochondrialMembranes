@@ -26,4 +26,11 @@ This analysis measures the distance between the lipid headgroup peaks along the 
 
 <img width="6307" height="3300" alt="thickness-out-asim-310k-En" src="https://github.com/user-attachments/assets/d9b549ce-82e6-48a3-8a70-e2bf280518ba" />
 
+## Z-Position of ZnPc Relative to the Membrane
+
+This analysis tracks the vertical (z-axis) position of ZnPc throughout the simulation to determine its insertion depth, translocation events between leaflets, and preferred localization within the asymmetric mitochondrial membrane.
+
+<img width="1000" height="600" alt="Z-poticion-Znpc" src="https://github.com/user-attachments/assets/2c7dd3cc-0de4-45b3-9684-547c4a5539f8" />
+
+
 
