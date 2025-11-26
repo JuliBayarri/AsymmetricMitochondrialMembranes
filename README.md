@@ -1,4 +1,4 @@
-# This repository contains the analyses, scripts, and results associated with the development of a computational platform based on molecular dynamics simulations designed to study the interaction between photosensitizers (PSs) and realistic models of the mitochondrial outer membrane.
+# This repository contains the analyses and results associated with the development of a computational platform based on molecular dynamics simulations designed to study the interaction between photosensitizers (PSs) and realistic models of the mitochondrial outer membrane.
 
 # The work includes:
 
@@ -46,6 +46,10 @@ Representative frame from the simulation showing ZnPc (1), and TaZnPc (2) embedd
 <img width="1290" height="479" alt="znpc-mem-asim" src="https://github.com/user-attachments/assets/0ce18d97-3764-43c9-b934-9118ac2f5040" />
 **2**
 <img width="1289" height="477" alt="taznpc-asim" src="https://github.com/user-attachments/assets/67735ddb-7abb-4491-9cbc-916dec6255d3" />
+
+
+Here you can see the full poster: [POSTER SAB2025.ai.pdf](https://github.com/user-attachments/files/23775377/POSTER.SAB2025.ai.pdf)
+
 
 
 
